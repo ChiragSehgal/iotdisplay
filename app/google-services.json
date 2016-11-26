@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092544103649",
+    "firebase_url": "https://scheduledisplay.firebaseio.com",
+    "project_id": "scheduledisplay",
+    "storage_bucket": "scheduledisplay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092544103649:android:18be2b495344b572",
+        "android_client_info": {
+          "package_name": "com.example.t00044127.displayschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092544103649-tmbchbdkgdf8pq85rn7a18c3vffdl9bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6OzVmb8AjHtpnRjFVAXn63GP36pyrvGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
